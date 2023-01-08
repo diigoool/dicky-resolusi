@@ -1,4 +1,6 @@
 RENCANA BELAJAR DICKY
 
 BELAJAR FRAMEWORK BOOTSTRAP
+*Belajar di Youtube Web Programming Unpas
+*Belajar di Youtube Defrizal
 BELAJAR FRAMEWORK LARAVEL
