@@ -5,5 +5,4 @@ BELAJAR CSS DASAR
 BELAJAR FRAMEWORK BOOTSTRAP
 *Belajar di Youtube Web Programming Unpas
 *Belajar di Youtube Defrizal
-*Belajar di Youtube w3school
 BELAJAR FRAMEWORK LARAVEL
